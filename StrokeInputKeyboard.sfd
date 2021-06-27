@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1624819770
+ModificationTime: 1624819907
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3851,7 +3851,7 @@ EndChar
 StartChar: carriagereturn
 Encoding: 8629 8629 121
 Width: 1000
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3865,16 +3865,6 @@ SplineSet
  426 546 l 1
  950 546 l 1
  950 214 l 1
-389 509 m 1
- 389 639 l 1
- 387 639 l 1
- 91 380 l 1
- 387 121 l 1
- 389 121 l 1
- 389 251 l 1
- 913 251 l 1
- 913 509 l 1
- 389 509 l 1
 EndSplineSet
 EndChar
 EndChars
