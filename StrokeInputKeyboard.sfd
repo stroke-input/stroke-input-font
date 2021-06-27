@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1624821367
+ModificationTime: 1624821616
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8976 12 10
+WinInfo: 12276 12 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 122
@@ -3300,8 +3300,119 @@ EndChar
 StartChar: uni3000
 Encoding: 12288 12288 99
 Width: 1000
-Flags: HW
+Flags: HWO
 LayerCount: 2
+Fore
+SplineSet
+140 830 m 1
+ 140 799 l 1
+ 81 799 l 1
+ 81 740 l 1
+ 50 740 l 1
+ 50 830 l 1
+ 140 830 l 1
+212 830 m 1
+ 302 830 l 1
+ 302 799 l 1
+ 212 799 l 1
+ 212 830 l 1
+374 830 m 1
+ 464 830 l 1
+ 464 799 l 1
+ 374 799 l 1
+ 374 830 l 1
+536 830 m 1
+ 626 830 l 1
+ 626 799 l 1
+ 536 799 l 1
+ 536 830 l 1
+698 830 m 1
+ 788 830 l 1
+ 788 799 l 1
+ 698 799 l 1
+ 698 830 l 1
+950 830 m 1
+ 950 740 l 1
+ 919 740 l 1
+ 919 799 l 1
+ 860 799 l 1
+ 860 830 l 1
+ 950 830 l 1
+81 578 m 1
+ 50 578 l 1
+ 50 668 l 1
+ 81 668 l 1
+ 81 578 l 1
+919 668 m 1
+ 950 668 l 1
+ 950 578 l 1
+ 919 578 l 1
+ 919 668 l 1
+81 416 m 1
+ 50 416 l 1
+ 50 506 l 1
+ 81 506 l 1
+ 81 416 l 1
+919 506 m 1
+ 950 506 l 1
+ 950 416 l 1
+ 919 416 l 1
+ 919 506 l 1
+81 254 m 1
+ 50 254 l 1
+ 50 344 l 1
+ 81 344 l 1
+ 81 254 l 1
+919 344 m 1
+ 950 344 l 1
+ 950 254 l 1
+ 919 254 l 1
+ 919 344 l 1
+81 92 m 1
+ 50 92 l 1
+ 50 182 l 1
+ 81 182 l 1
+ 81 92 l 1
+919 182 m 1
+ 950 182 l 1
+ 950 92 l 1
+ 919 92 l 1
+ 919 182 l 1
+81 -39 m 1
+ 140 -39 l 1
+ 140 -70 l 1
+ 50 -70 l 1
+ 50 20 l 1
+ 81 20 l 1
+ 81 -39 l 1
+919 20 m 1
+ 950 20 l 1
+ 950 -70 l 1
+ 860 -70 l 1
+ 860 -39 l 1
+ 919 -39 l 1
+ 919 20 l 1
+212 -39 m 1
+ 302 -39 l 1
+ 302 -70 l 1
+ 212 -70 l 1
+ 212 -39 l 1
+374 -39 m 1
+ 464 -39 l 1
+ 464 -70 l 1
+ 374 -70 l 1
+ 374 -39 l 1
+536 -39 m 1
+ 626 -39 l 1
+ 626 -70 l 1
+ 536 -70 l 1
+ 536 -39 l 1
+698 -39 m 1
+ 788 -39 l 1
+ 788 -70 l 1
+ 698 -70 l 1
+ 698 -39 l 1
+EndSplineSet
 EndChar
 
 StartChar: uni3001
@@ -3851,7 +3962,7 @@ EndChar
 StartChar: uni23CE
 Encoding: 9166 9166 121
 Width: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
