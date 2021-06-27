@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1624818196
+ModificationTime: 1624818296
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,10 +43,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 128676 12 10
+WinInfo: 8964 12 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 120
+BeginChars: 1114112 121
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -3810,6 +3810,39 @@ SplineSet
  550.640625 639.890625 555.580078125 627.540039062 555.580078125 612.33984375 c 0
  555.580078125 597.900390625 550.640625 586.120117188 540.759765625 577 c 128
  530.880859375 567.880859375 517.580078125 563.319335938 500.859375 563.319335938 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni232B
+Encoding: 9003 9003 120
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+100 780 m 1
+ 900 780 l 1
+ 900 -20 l 1
+ 100 -20 l 1
+ 100 780 l 1
+831 711 m 1
+ 169 711 l 1
+ 169 49 l 1
+ 831 49 l 1
+ 831 711 l 1
+549 379 m 1
+ 731 197 l 1
+ 683 149 l 1
+ 501 331 l 1
+ 318 149 l 1
+ 269 197 l 1
+ 452 379 l 1
+ 269 562 l 1
+ 318 611 l 1
+ 501 428 l 1
+ 683 611 l 1
+ 731 562 l 1
+ 549 379 l 1
 EndSplineSet
 EndChar
 EndChars
