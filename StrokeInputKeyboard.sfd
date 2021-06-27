@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1624818669
+ModificationTime: 1624819304
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3824,10 +3824,12 @@ SplineSet
  1000 780 l 1
  1000 -20 l 1
  200 -20 l 1
+ -137 378.8203125 l 1
  200 780 l 1
 931 711 m 1
- 269 711 l 1
- 269 49 l 1
+ 243 711 l 1
+ -31 378.8203125 l 1
+ 243 49 l 1
  931 49 l 1
  931 711 l 1
 599.211914062 321.22265625 m 1
