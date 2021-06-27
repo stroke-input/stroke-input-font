@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1624819625
+ModificationTime: 1624819662
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3821,8 +3821,8 @@ LayerCount: 2
 Fore
 SplineSet
 253.150390625 704 m 1
- 973.150390625 704 l 1
- 973.150390625 56 l 1
+ 983.150390625 704 l 1
+ 983.150390625 56 l 1
  253.150390625 56 l 1
  -50.150390625 378.938476562 l 1
  253.150390625 704 l 1
