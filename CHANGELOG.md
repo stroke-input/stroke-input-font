@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.1.0] Space bar glyphs (2021-06-29)
+
 - Added glyphs for "中文筆畫"
 - Increased `U+23CE RETURN SYMBOL` arrow size and vertical portion length
 
@@ -37,7 +40,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.0.2...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.1.0...HEAD
+[v1.1.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.0.2...v1.1.0
 [v1.0.2]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.0.1...v1.0.2
 [v1.0.1]:
