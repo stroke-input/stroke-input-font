@@ -3,14 +3,16 @@
 
 ## [Unreleased]
 
+- Fixed changelog v1.0.0 and v1.0.1 dates
 
-## [v1.0.1] Housekeeping (2021-07-28)
+
+## [v1.0.1] Housekeeping (2021-06-28)
 
 - Fixed changelog URLs
 - Noted the script `./generate.pe` in `README.md`
 
 
-## [v1.0.0] First stable (2021-07-28)
+## [v1.0.0] First stable (2021-06-28)
 
 Added:
 - `U+0020` to `U+007E` (Printable ASCII)
