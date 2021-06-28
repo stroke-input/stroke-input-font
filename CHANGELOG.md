@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Fixed changelog URLs
+
 
 ## [v1.0.0] First stable (2021-07-28)
 
@@ -20,5 +22,5 @@ Added:
 - `U+1F6C8 CIRCLED INFORMATION SOURCE` (About key) `🛈`
 
 
-[Unreleased]: https://github.com/yawnoc/phd-thesis/compare/v1.0.0...HEAD
-[v1.0.0]: https://github.com/yawnoc/phd-thesis/releases/tag/v1.0.0
+[Unreleased]: https://github.com/stroke-input/stroke-input-font/compare/v1.0.0...HEAD
+[v1.0.0]: https://github.com/stroke-input/stroke-input-font/releases/tag/v1.0.0
