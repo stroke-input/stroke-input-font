@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 - Fixed changelog v1.0.0 and v1.0.1 dates
+- Set output TTF file name to be `$fontname`
 
 
 ## [v1.0.1] Housekeeping (2021-06-28)
