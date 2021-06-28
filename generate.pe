@@ -1,4 +1,3 @@
 #!/usr/bin/env fontforge
-source_file="StrokeInputKeyboard.sfd"
-Open(source_file)
+Open("StrokeInputKeyboard.sfd")
 Generate($fontname + ".ttf")
