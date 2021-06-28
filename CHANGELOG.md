@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 - Fixed changelog URLs
+- Noted the script `./generate.pe` in `README.md`
 
 
 ## [v1.0.0] First stable (2021-07-28)
