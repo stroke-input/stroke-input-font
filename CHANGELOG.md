@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.0.1] Housekeeping (2021-07-28)
+
 - Fixed changelog URLs
 - Noted the script `./generate.pe` in `README.md`
 
@@ -23,5 +26,6 @@ Added:
 - `U+1F6C8 CIRCLED INFORMATION SOURCE` (About key) `🛈`
 
 
-[Unreleased]: https://github.com/stroke-input/stroke-input-font/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/stroke-input/stroke-input-font/compare/v1.0.1...HEAD
+[v1.0.1]: https://github.com/stroke-input/stroke-input-font/compare/v1.0.0...v1.0.1
 [v1.0.0]: https://github.com/stroke-input/stroke-input-font/releases/tag/v1.0.0
