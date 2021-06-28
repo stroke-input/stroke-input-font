@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Increased `U+23CE RETURN SYMBOL` arrow size and vertical portion length
+
 
 ## [v1.0.2] Correcting names (2021-06-29)
 
