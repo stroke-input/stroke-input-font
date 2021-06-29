@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Reduced non-wide fullwidth punctuation width to 700
+
 
 ## [v1.1.0] Space bar glyphs (2021-06-29)
 
