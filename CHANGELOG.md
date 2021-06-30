@@ -3,6 +3,7 @@
 
 ## [Unreleased]
 
+- Added glyph `U+30FB KATAKANA MIDDLE DOT`
 - Reduced non-wide fullwidth punctuation width to 700
 - Improved `U+23CE RETURN SYMBOL` alignment and size
 - Cleaned up `README.md`
