@@ -11,7 +11,7 @@ Run `./generate.pe` to generate `StrokeInputKeyboard.ttf`.
 [noto-sans-cjk-tc-fix]: https://github.com/stroke-input/noto-sans-cjk-tc-fix
 
 
-## Licensing
+## License
 
 This font is licensed under GPL-3.0-only, see [LICENSE].
 
