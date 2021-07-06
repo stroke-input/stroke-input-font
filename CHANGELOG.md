@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.2.0] Middle dot glyph (2021-07-06)
+
 - Added glyph `U+30FB KATAKANA MIDDLE DOT`
 - Reduced non-wide fullwidth punctuation width to 700
 - Improved `U+23CE RETURN SYMBOL` alignment and size
@@ -45,7 +48,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.1.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.2.0...HEAD
+[v1.2.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.1.0...v1.2.0
 [v1.1.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.0.2...v1.1.0
 [v1.0.2]:
