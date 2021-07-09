@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.2.1] Tweaked punctuation width (2021-07-09)
+
 - Increased non-wide fullwidth punctuation width back to 800
 
 
@@ -50,7 +53,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.2.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.2.1...HEAD
+[v1.2.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.2.0...v1.2.1
 [v1.2.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.1.0...v1.2.0
 [v1.1.0]:
