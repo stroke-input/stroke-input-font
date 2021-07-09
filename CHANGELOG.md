@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Increased non-wide fullwidth punctuation width back to 800
+
 
 ## [v1.2.0] Middle dot glyph (2021-07-06)
 
