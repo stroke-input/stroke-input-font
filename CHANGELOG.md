@@ -5,6 +5,7 @@
 
 Added:
 - `U+25C0` and `U+25B6` (black left/right-pointing triangles) `◀▶`
+- `U+21E7` and `U+2B06` (up arrows for shift key) `⇧⬆`
 
 
 ## [v1.2.1] Tweaked punctuation width (2021-07-09)
