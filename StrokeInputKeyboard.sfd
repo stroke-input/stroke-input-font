@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1626102524
+ModificationTime: 1626103500
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,10 +43,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 10992 12 10
+WinInfo: 192 12 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 134
+BeginChars: 1114112 137
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -4542,6 +4542,80 @@ SplineSet
  334 454 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 134
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+863 410 m 1
+ 863 341 l 1
+ 137 341 l 1
+ 137 410 l 1
+ 863 410 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 135
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+774 54 m 1
+ 500 328 l 1
+ 227 54 l 1
+ 178 102 l 1
+ 452 376 l 1
+ 178 649 l 1
+ 227 698 l 1
+ 500 424 l 1
+ 774 698 l 1
+ 822 650 l 1
+ 549 376 l 1
+ 822 102 l 1
+ 774 54 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: divide
+Encoding: 247 247 136
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+428 630 m 0
+ 428 650 435 667.166666667 449 681.5 c 128
+ 463 695.833333333 480 703 500 703 c 256
+ 520 703 537 695.833333333 551 681.5 c 128
+ 565 667.166666667 572 650 572 630 c 0
+ 572 610.666666667 565 593.833333333 551 579.5 c 128
+ 537 565.166666667 520 558 500 558 c 256
+ 480 558 463 565.166666667 449 579.5 c 128
+ 435 593.833333333 428 610.666666667 428 630 c 0
+863 410 m 1
+ 863 341 l 1
+ 137 341 l 1
+ 137 410 l 1
+ 863 410 l 1
+428 121 m 0
+ 428 140.333333333 435 157.166666667 449 171.5 c 128
+ 463 185.833333333 480 193 500 193 c 256
+ 520 193 537 185.833333333 551 171.5 c 128
+ 565 157.166666667 572 140.333333333 572 121 c 0
+ 572 101 565 83.8333333333 551 69.5 c 128
+ 537 55.1666666667 520 48 500 48 c 256
+ 480 48 463 55.1666666667 449 69.5 c 128
+ 435 83.8333333333 428 101 428 121 c 0
+EndSplineSet
+Validated: 524289
 EndChar
 EndChars
 EndSplineFont
