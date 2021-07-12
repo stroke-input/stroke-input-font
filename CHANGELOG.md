@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.3.1] Size tweaks (2021-07-13)
+
 - Reduced size of black left/right-pointing triangles
 - Increased size of ASCII plus and equals
 - Increased width of ASCII hyphen
@@ -68,7 +71,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.3.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.3.1...HEAD
+[v1.3.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.3.0...v1.3.1
 [v1.3.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.2.1...v1.3.0
 [v1.2.1]:
