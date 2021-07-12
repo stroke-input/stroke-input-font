@@ -5,6 +5,7 @@
 
 - Reduced size of black left/right-pointing triangles
 - Increased size of ASCII plus and equals
+- Increased width of ASCII hyphen
 
 
 ## [v1.3.0] Qwerty symbols glyphs (2021-07-12)
