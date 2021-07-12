@@ -8,6 +8,7 @@ Added:
 - `U+21E7` and `U+2B06` (up arrows for shift key) `⇧⬆`
 - `U+2212`, `U+00D7`, `U+00F7` (arithmetic operators) `−×÷`
 - `U+00B0 DEGREE SIGN` (degree) `°`
+- `U+00A2` etc. (currency symbols) ¢¥€£
 
 
 ## [v1.2.1] Tweaked punctuation width (2021-07-09)
