@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Reduced size of black left/right-pointing triangles
+
 
 ## [v1.3.0] Qwerty symbols glyphs (2021-07-12)
 
