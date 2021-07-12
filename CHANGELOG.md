@@ -7,6 +7,7 @@ Added:
 - `U+25C0` and `U+25B6` (black left/right-pointing triangles) `◀▶`
 - `U+21E7` and `U+2B06` (up arrows for shift key) `⇧⬆`
 - `U+2212`, `U+00D7`, `U+00F7` (arithmetic operators) `−×÷`
+- `U+00B0 DEGREE SIGN` (degree) `°`
 
 
 ## [v1.2.1] Tweaked punctuation width (2021-07-09)
