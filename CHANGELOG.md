@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.4.0] Localised space bar (2021-07-18)
+
 - Added glyph `U+82F1 英` (for localised space bar)
 
 
@@ -73,7 +76,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.3.1...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.4.0...HEAD
+[v1.4.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.3.1...v1.4.0
 [v1.3.1]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.3.0...v1.3.1
 [v1.3.0]:
