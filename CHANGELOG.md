@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Added glyph `U+82F1 英` (for localised space bar)
+
 
 ## [v1.3.1] Size tweaks (2021-07-13)
 
