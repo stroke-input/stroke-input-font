@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Added glyph `U+E000` (private use) for 5-strokes logo
+
 
 ## [v1.4.0] Localised space bar (2021-07-18)
 
