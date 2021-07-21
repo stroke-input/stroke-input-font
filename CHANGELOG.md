@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.5.0] 5-strokes logo (2021-07-22)
+
 - Added glyph `U+E000` (private use) for 5-strokes logo
 
 
@@ -78,7 +81,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.4.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.5.0...HEAD
+[v1.5.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.4.0...v1.5.0
 [v1.4.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.3.1...v1.4.0
 [v1.3.1]:
