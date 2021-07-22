@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+- Improved 5-strokes logo leg shape
+- Improved 5-strokes logo vertical position
+
 
 ## [v1.5.0] 5-strokes logo (2021-07-22)
 
