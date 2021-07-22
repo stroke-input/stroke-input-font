@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.5.1] Logo improvements (2021-07-22)
+
 - Improved 5-strokes logo leg shape
 - Improved 5-strokes logo vertical position
 
@@ -84,7 +87,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.5.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.5.1...HEAD
+[v1.5.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.5.0...v1.5.1
 [v1.5.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.4.0...v1.5.0
 [v1.4.0]:

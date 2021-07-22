@@ -5,7 +5,7 @@ FamilyName: Stroke Input Keyboard
 Weight: Regular
 Copyright: Copyright (c) 2021 Conway\nLicensed under GPL-3.0-only, see <https://www.gnu.org/licenses/>.\n\nModified from a 2015 version of Noto Sans CJK TC, which is:\n\nCopyright (c) 2015 Google and others\nLicensed under Apache-2.0, see <https://www.apache.org/licenses/LICENSE-2.0.html>.
 UComments: "2021-6-28: Created with FontForge (http://fontforge.org)"
-Version: 1.5.0
+Version: 1.5.1
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1626966412
+ModificationTime: 1626967245
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -4925,7 +4925,7 @@ EndChar
 StartChar: uniE000
 Encoding: 57344 57344 143
 Width: 1000
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
