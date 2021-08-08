@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1626967245
+ModificationTime: 1628431579
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,10 +43,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 84 12 10
+WinInfo: 12288 12 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 144
+BeginChars: 1114112 146
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -4975,6 +4975,80 @@ SplineSet
  0 306 l 5
  0 362 l 5
  345 362 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni3016
+Encoding: 12310 12310 144
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+966 -86 m 1
+ 623 -86 l 1
+ 623 846 l 1
+ 966 846 l 1
+ 966 829 l 1
+ 927 811 890 788 858 760 c 128
+ 826 732 799 698 776 660 c 128
+ 753 622 735 581 722 534 c 128
+ 709 487 703 435 703 380 c 256
+ 703 325 709 273 722 226 c 128
+ 735 179 753 138 776 100 c 128
+ 799 62 826 28 858 0 c 128
+ 890 -28 927 -51 966 -69 c 1
+ 966 -86 l 1
+903 -62 m 1
+ 879 -47 854 -28 828 -4 c 128
+ 802 20 777 50 755 86 c 128
+ 733 122 714 164 700 213 c 128
+ 686 262 679 317 679 380 c 0
+ 679 443 686 500 700 548 c 128
+ 714 596 733 638 755 674 c 128
+ 777 710 802 740 828 764 c 128
+ 854 788 879 807 903 822 c 1
+ 646 822 l 1
+ 646 -62 l 1
+ 903 -62 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni3017
+Encoding: 12311 12311 145
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+34 -69 m 1
+ 73 -51 110 -28 142 0 c 128
+ 174 28 201 62 224 100 c 128
+ 247 138 265 179 278 226 c 128
+ 291 273 297 325 297 380 c 256
+ 297 435 291 487 278 534 c 128
+ 265 581 247 622 224 660 c 128
+ 201 698 174 732 142 760 c 128
+ 110 788 73 811 34 829 c 1
+ 34 846 l 1
+ 377 846 l 1
+ 377 -86 l 1
+ 34 -86 l 1
+ 34 -69 l 1
+354 -62 m 1
+ 354 822 l 1
+ 97 822 l 1
+ 121 807 146 788 172 764 c 128
+ 198 740 223 710 245 674 c 128
+ 267 638 286 596 300 548 c 128
+ 314 500 321 443 321 380 c 0
+ 321 317 314 262 300 213 c 128
+ 286 164 267 122 245 86 c 128
+ 223 50 198 20 172 -4 c 128
+ 146 -28 121 -47 97 -62 c 1
+ 354 -62 l 1
 EndSplineSet
 Validated: 1
 EndChar

@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+Added:
+- `U+3016` and `U+3017` (White lenticular brackets) `〖〗`
+
 
 ## [v1.5.1] Logo improvements (2021-07-22)
 
