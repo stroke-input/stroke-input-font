@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.6.0] New symbols glyphs (2021-08-08)
+
 Added:
 - `U+2FF0` to `U+2FFB` (Ideographic description characters) `⿰` etc.
 - `U+2026` (Horizontal ellipsis) `…`
@@ -95,7 +98,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.5.1...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.6.0...HEAD
+[v1.6.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.5.1...v1.6.0
 [v1.5.1]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.5.0...v1.5.1
 [v1.5.0]:
