@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.6.1] Width improvements (2021-08-09)
+
 - Increased width of `U+3000` (open box glyph) width
 - Centred and reduced width of white lenticular brackets
 
@@ -101,7 +104,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.6.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.6.1...HEAD
+[v1.6.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.6.0...v1.6.1
 [v1.6.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.5.1...v1.6.0
 [v1.5.1]:
