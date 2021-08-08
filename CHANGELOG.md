@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 Added:
+- `U+2FF0` to `U+2FFB` (Ideographic description characters) `⿰` etc.
 - `U+2026` (Horizontal ellipsis) `…`
 - `U+3016` and `U+3017` (White lenticular brackets) `〖〗`
 
