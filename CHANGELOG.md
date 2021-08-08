@@ -4,6 +4,7 @@
 ## [Unreleased]
 
 - Increased width of `U+3000` (open box glyph) width
+- Centred and reduced width of white lenticular brackets
 
 
 ## [v1.6.0] New symbols glyphs (2021-08-08)
