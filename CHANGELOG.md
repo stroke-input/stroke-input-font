@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Increased width of `U+3000` (open box glyph) width
+
 
 ## [v1.6.0] New symbols glyphs (2021-08-08)
 
