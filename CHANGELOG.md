@@ -7,6 +7,9 @@ Added:
 - `U+2026` (Horizontal ellipsis) `…`
 - `U+3016` and `U+3017` (White lenticular brackets) `〖〗`
 
+Changed:
+- `U+3000` (Fullwidth space) `　` to a wide version of `U+2423 ␣` (open box)
+
 
 ## [v1.5.1] Logo improvements (2021-07-22)
 
