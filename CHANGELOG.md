@@ -5,6 +5,7 @@
 
 Added:
 - `U+2713` (tick) `✓`
+- `U+2B95` (right arrow for go) `⮕`
 
 
 ## [v1.6.1] Width improvements (2021-08-09)
