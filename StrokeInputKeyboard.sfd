@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1628612539
+ModificationTime: 1628613051
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 11136 12 10
+WinInfo: 9096 12 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 165
@@ -6990,14 +6990,14 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-574 375 m 1
- 620 464 l 1
- 952 207 l 1
- 471 133 l 1
- 517 239 l 1
- 48 324 l 1
- 107 463 l 1
- 574 375 l 1
+580 383 m 1
+ 626 472 l 1
+ 958 215 l 1
+ 477 141 l 1
+ 523 247 l 1
+ 54 332 l 1
+ 113 471 l 1
+ 580 383 l 1
 EndSplineSet
 Validated: 1
 EndChar
