@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1628613051
+ModificationTime: 1628613654
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -7009,14 +7009,14 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-448 226 m 1
- 410 133 l 1
- 36 351 l 1
- 537 450 l 1
- 496 363 l 1
- 964 273 l 1
- 904 134 l 1
- 448 226 l 1
+436 266 m 5
+ 398 173 l 5
+ 24 391 l 5
+ 525 490 l 5
+ 484 403 l 5
+ 952 313 l 5
+ 892 174 l 5
+ 436 266 l 5
 EndSplineSet
 Validated: 1
 EndChar
