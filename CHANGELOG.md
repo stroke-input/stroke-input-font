@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.7.0] Enter action glyphs (2021-08-11)
+
 Added:
 - `U+2713` (tick for 'done') `✓`
 - `U+2B95` (right arrow for 'go') `⮕`
@@ -111,7 +114,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.6.1...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.7.0...HEAD
+[v1.7.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.6.1...v1.7.0
 [v1.6.1]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.6.0...v1.6.1
 [v1.6.0]:
