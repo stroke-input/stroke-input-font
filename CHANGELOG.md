@@ -8,6 +8,7 @@ Added:
 - `U+2B95` (right arrow for 'go') `⮕`
 - `U+2397` and `U+2398` ('previous' and 'next') `⎗⎘`
 - `U+1F50E` (magnifying glass for 'search') `🔎`
+- `U+27A4` (right arrowhead for 'send') `➤`
 
 
 ## [v1.6.1] Width improvements (2021-08-09)
