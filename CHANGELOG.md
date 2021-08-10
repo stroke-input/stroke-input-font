@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+Added:
+- `U+2713` (tick) `✓`
+
 
 ## [v1.6.1] Width improvements (2021-08-09)
 
