@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.8.0] Right-handed magnifying glass (2021-08-19)
+
 - Added `U+1F50D` (right-handed magnifying glass) `🔍`
 
 
@@ -116,7 +119,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.7.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.8.0...HEAD
+[v1.8.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.7.0...v1.8.0
 [v1.7.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.6.1...v1.7.0
 [v1.6.1]:
