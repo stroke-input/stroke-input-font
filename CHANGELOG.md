@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Added `U+1F50D` (right-handed magnifying glass) `🔍`
+
 
 ## [v1.7.0] Enter action glyphs (2021-08-11)
 
