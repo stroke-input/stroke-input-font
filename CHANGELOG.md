@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.8.1] Magnifying glass alignment (2021-08-20)
+
 - Shifted right-handed magnifying glass to the left
 
 
@@ -121,7 +124,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.8.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.8.1...HEAD
+[v1.8.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.8.0...v1.8.1
 [v1.8.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.7.0...v1.8.0
 [v1.7.0]:
