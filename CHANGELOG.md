@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Shifted right-handed magnifying glass to the left
+
 
 ## [v1.8.0] Right-handed magnifying glass (2021-08-19)
 
