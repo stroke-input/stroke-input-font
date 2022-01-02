@@ -5,6 +5,7 @@
 
 Added:
 - Characters for the four tones (平上去入)
+- `U+302A` to `U+302D` (ideographic tone markers, 平〪上〫去〬入〭)
 
 
 ## [v1.8.1] Magnifying glass alignment (2021-08-20)
