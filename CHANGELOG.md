@@ -10,6 +10,7 @@ Added:
 - `U+2018`, `U+2019`, `U+201C`, `U+201D` (quotation marks) `‘’“”`
 - `U+3014`, `U+3015` (tortoise shell brackets) `〔〕`
 - `U+A700` to `U+A707` (modifier tone letters) `꜀꜁꜂꜃꜄꜅꜆꜇`
+- `U+02E5` to `U+02E9` (tone letters) `˥ ˦ ˧ ˨ ˩`
 
 
 ## [v1.8.1] Magnifying glass alignment (2021-08-20)
