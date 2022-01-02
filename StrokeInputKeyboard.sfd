@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1641142374
+ModificationTime: 1641142571
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ FitToEm: 0
 WinInfo: 42732 12 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 182
+BeginChars: 1114112 183
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -7652,10 +7652,44 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniA701
-Encoding: 42753 42753 181
+StartChar: uniA700
+Encoding: 42752 42752 181
 Width: 500
-Flags: HWO
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+242 119 m 6
+ 242 119 215 117 203 113 c 132
+ 191 109 181 102 174 95 c 132
+ 167 88 161 77 157 68 c 132
+ 153 59 151 48 151 38 c 260
+ 151 28 153 16 157 7 c 132
+ 161 -2 167 -13 174 -20 c 132
+ 181 -27 191 -34 203 -38 c 132
+ 215 -42 227 -44 242 -44 c 6
+ 410 -44 l 5
+ 410 -101 l 5
+ 241 -101 l 6
+ 218 -101 197 -97 178 -90 c 132
+ 159 -83 143 -72 130 -59 c 132
+ 117 -46 107 -31 101 -14 c 132
+ 95 3 90 20 90 38 c 260
+ 90 56 95 74 101 91 c 132
+ 107 108 117 122 130 135 c 132
+ 143 148 159 157 178 164 c 132
+ 197 171 218 176 241 176 c 6
+ 410 176 l 5
+ 410 119 l 5
+ 242 119 l 6
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniA701
+Encoding: 42753 42753 182
+Width: 500
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7688,6 +7722,7 @@ SplineSet
  110 -164 l 1
  402 -164 l 1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
