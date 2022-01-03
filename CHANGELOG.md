@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v1.9.0] Tone markers etc. (2022-01-04)
+
 Added:
 - Characters for the four tones "平上去入"
 - `U+302A` to `U+302D` (ideographic tone markers) `平〪上〫去〬入〭`
@@ -133,7 +136,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.8.1...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v1.9.0...HEAD
+[v1.9.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.8.1...v1.9.0
 [v1.8.1]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.8.0...v1.8.1
 [v1.8.0]:
