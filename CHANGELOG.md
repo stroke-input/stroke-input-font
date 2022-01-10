@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Added source code link to Font Info
+
 
 ## [v2.0.0] Corrected name (2022-01-10)
 

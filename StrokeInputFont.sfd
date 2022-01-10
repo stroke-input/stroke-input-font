@@ -3,7 +3,7 @@ FontName: StrokeInputFont
 FullName: Stroke Input Font
 FamilyName: Stroke Input Font
 Weight: Regular
-Copyright: Copyright (c) 2021--2022 Conway\nLicensed under GPL-3.0-only, see <https://www.gnu.org/licenses/>.\n\nModified from a 2015 version of Noto Sans CJK TC, which is:\n\nCopyright (c) 2015 Google and others\nLicensed under Apache-2.0, see <https://www.apache.org/licenses/LICENSE-2.0.html>.
+Copyright: Copyright (c) 2021--2022 Conway\nLicensed under GPL-3.0-only, see <https://www.gnu.org/licenses/>.\nSource code available at <https://github.com/stroke-input/stroke-input-font>.\n\nModified from a 2015 version of Noto Sans CJK TC, which is:\n\nCopyright (c) 2015 Google and others\nLicensed under Apache-2.0, see <https://www.apache.org/licenses/LICENSE-2.0.html>.
 UComments: "2021-6-28: Created with FontForge (http://fontforge.org)"
 Version: 2.0.0
 ItalicAngle: 0
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1624815324
-ModificationTime: 1641811531
+ModificationTime: 1641831607
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
