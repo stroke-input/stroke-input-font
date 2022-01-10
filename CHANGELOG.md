@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v2.0.0] Corrected name (2022-01-10)
+
 - Renamed font to 'Stroke Input Font'
 
 
@@ -138,7 +141,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v1.9.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v2.0.0...HEAD
+[v2.0.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v1.9.0...v2.0.0
 [v1.9.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.8.1...v1.9.0
 [v1.8.1]:
