@@ -1,9 +1,9 @@
 # 'Stroke Input Keyboard' (font)
 
-This is the font used for the keyboard in
-[Stroke Input Method (Chinese keyboard for Android)][app].
+This is the font used for the keyboard in the Android keyboard app
+[Stroke Input Method (Chinese keyboard)][app].
 
-It is modified from an Apache 2.0 version of Noto Sans CJK TC,
+This font is modified from an Apache 2.0 version of Noto Sans CJK TC,
 see [noto-sans-cjk-tc-fix].
 
 Run `./generate.pe` to generate `StrokeInputKeyboard.ttf`.
