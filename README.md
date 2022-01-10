@@ -1,6 +1,6 @@
 # 'Stroke Input Keyboard' (font)
 
-This is the font used in
+This is the font used for the keyboard in
 [Stroke Input Method (Chinese keyboard for Android)][app].
 
 It is modified from an Apache 2.0 version of Noto Sans CJK TC,
