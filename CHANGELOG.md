@@ -3,6 +3,8 @@
 
 ## [Unreleased]
 
+- Renamed font to 'Stroke Input Font'
+
 
 ## [v1.9.0] Tone markers etc. (2022-01-04)
 
