@@ -1,4 +1,4 @@
-# stroke-input-font (Stroke Input Keyboard)
+# 'Stroke Input Keyboard' (font)
 
 This is the font used in
 [Stroke Input Method (Chinese keyboard for Android)][app].
