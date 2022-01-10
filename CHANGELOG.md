@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v2.0.1] Source code link (2022-01-11)
+
 - Added source code link to Font Info
 
 
@@ -143,7 +146,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v2.0.0...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v2.0.1...HEAD
+[v2.0.1]:
+  https://github.com/stroke-input/stroke-input-font/compare/v2.0.0...v2.0.1
 [v2.0.0]:
   https://github.com/stroke-input/stroke-input-font/compare/v1.9.0...v2.0.0
 [v1.9.0]:
