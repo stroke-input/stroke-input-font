@@ -1,7 +1,7 @@
 # Stroke Input Font
 
 This is the font used for the keyboard in the Android keyboard app
-[Stroke Input Method (Chinese keyboard)][app].
+[Stroke Input Method (筆畫輸入法)][app].
 
 This font is modified from an Apache 2.0 version of Noto Sans CJK TC,
 see [noto-sans-cjk-tc-fix].
