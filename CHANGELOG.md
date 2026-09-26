@@ -3,6 +3,9 @@
 
 ## [Unreleased]
 
+
+## [v2.1.0] Romanisation (2026-09-26)
+
 - Added glyphs for Mandarin romanisation:
   - Toned pinyin letters
   - Wade–Giles letters and aspirate mark
@@ -150,7 +153,9 @@ Added:
 
 
 [Unreleased]:
-  https://github.com/stroke-input/stroke-input-font/compare/v2.0.1...HEAD
+  https://github.com/stroke-input/stroke-input-font/compare/v2.1.0...HEAD
+[v2.1.0]:
+  https://github.com/stroke-input/stroke-input-font/compare/v2.0.1...v2.1.0
 [v2.0.1]:
   https://github.com/stroke-input/stroke-input-font/compare/v2.0.0...v2.0.1
 [v2.0.0]:
