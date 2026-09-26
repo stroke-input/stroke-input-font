@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+- Added glyphs for Mandarin romanisation:
+  - Toned pinyin letters
+  - Wade–Giles letters and aspirate mark
+
 
 ## [v2.0.1] Source code link (2022-01-11)
 
